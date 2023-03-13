@@ -264,8 +264,8 @@ header .menu-profile
 
     .container-movie
     {
-        margin: 0px;
-        padding: 100px 0px;
+        margin: -30px;
+        padding: 100px 0px 0px 0px;
     }
 
     .container-movie .container-content-movie .content-movie
