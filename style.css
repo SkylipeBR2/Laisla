@@ -191,7 +191,8 @@ header .menu-profile
     align-items: center;
     background: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(images/laisla\ adorando.jpg);
     background-size: cover;
-    height: 50vh;
+    height: 100vh;
+    margin: auto auto;
 
     color: #fff;
     
@@ -289,6 +290,10 @@ header .menu-profile
     {
         font-size: 0.8em;
         text-align: center;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
 }
